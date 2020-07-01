@@ -1,0 +1,2 @@
+# AmazonLinkShortener
+Shortens amazon links
