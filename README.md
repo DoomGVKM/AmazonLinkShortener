@@ -1,2 +1,2 @@
 # AmazonLinkShortener
-Shortens amazon links
+Shortens amazon links, Just because
